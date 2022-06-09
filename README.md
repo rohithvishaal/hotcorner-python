@@ -10,8 +10,14 @@ Implementation of Hotcorner feature that you see in Ubuntu and other Linux Distr
 ## How to Run - Linux
 `python3 hotcorner.py`
 
+## To Stop - Linux
+`pkill hotcorner`
+
 ## How to Run - Windows 
 `python hotcorner.py`
+
+## To Stop - Windows
+`taskkill /IM "hotcorner.exe" /F`
 
 ### OR
 
