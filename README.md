@@ -1,5 +1,5 @@
 # Hotcorner - Python
-Implementation of Hotcorner feature that you see in Ubuntu and other Linus Distros
+Implementation of Hotcorner feature that you see in Ubuntu and other Linux Distros
 
 ## Installation - Linux
 `pip3 install pyautogui`
@@ -12,6 +12,8 @@ Implementation of Hotcorner feature that you see in Ubuntu and other Linus Distr
 
 ## How to Run - Windows 
 `python hotcorner.py`
+
+### OR
 
 ### Get the [executable](https://github.com/rohithvishaal/hotcorner-python/blob/master/hotcorner) for Linux 
 
