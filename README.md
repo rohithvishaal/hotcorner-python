@@ -12,3 +12,5 @@ Implementation of Hotcorner feature that you see in Ubuntu and other Linus Distr
 
 ## How to Run - Windows 
 `python hotcorner.py`
+
+### Get the [executable](https://github.com/rohithvishaal/hotcorner-python/blob/master/hotcorner) for Linux 
