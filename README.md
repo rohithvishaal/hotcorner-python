@@ -1,4 +1,4 @@
-# hotcorner-python
+# Hotcorner - Python
 Implementation of Hotcorner feature that you see in Ubuntu and other Linus Distros
 
 # Installation - Linux
